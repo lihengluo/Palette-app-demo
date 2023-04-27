@@ -45,6 +45,13 @@ android {
         }
     }
     buildToolsVersion '33.0.2'
+
+    externalNativeBuild {
+        cmake {
+            version "3.22.1"
+            path = "src/main/cpp/CMakeLists.txt"
+        }
+    }
 }
 
 dependencies {

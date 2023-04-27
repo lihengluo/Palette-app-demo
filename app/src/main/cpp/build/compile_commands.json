@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include -Werror -std=gnu++17 -fPIC -o CMakeFiles/monet.dir/include/blend/blend.cc.o -c /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/blend/blend.cc",
+  "file": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/blend/blend.cc",
+  "output": "CMakeFiles/monet.dir/include/blend/blend.cc.o"
+},
+{
+  "directory": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include -Werror -std=gnu++17 -fPIC -o CMakeFiles/monet.dir/include/cam/cam.cc.o -c /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/cam/cam.cc",
+  "file": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/cam/cam.cc",
+  "output": "CMakeFiles/monet.dir/include/cam/cam.cc.o"
+},
+{
+  "directory": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include -Werror -std=gnu++17 -fPIC -o CMakeFiles/monet.dir/include/cam/hct.cc.o -c /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/cam/hct.cc",
+  "file": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/cam/hct.cc",
+  "output": "CMakeFiles/monet.dir/include/cam/hct.cc.o"
+},
+{
+  "directory": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include -Werror -std=gnu++17 -fPIC -o CMakeFiles/monet.dir/include/cam/hct_solver.cc.o -c /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/cam/hct_solver.cc",
+  "file": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/cam/hct_solver.cc",
+  "output": "CMakeFiles/monet.dir/include/cam/hct_solver.cc.o"
+},
+{
+  "directory": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include -Werror -std=gnu++17 -fPIC -o CMakeFiles/monet.dir/include/cam/viewing_conditions.cc.o -c /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/cam/viewing_conditions.cc",
+  "file": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/cam/viewing_conditions.cc",
+  "output": "CMakeFiles/monet.dir/include/cam/viewing_conditions.cc.o"
+},
+{
+  "directory": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include -Werror -std=gnu++17 -fPIC -o CMakeFiles/monet.dir/include/palettes/core.cc.o -c /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/palettes/core.cc",
+  "file": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/palettes/core.cc",
+  "output": "CMakeFiles/monet.dir/include/palettes/core.cc.o"
+},
+{
+  "directory": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include -Werror -std=gnu++17 -fPIC -o CMakeFiles/monet.dir/include/palettes/tones.cc.o -c /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/palettes/tones.cc",
+  "file": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/palettes/tones.cc",
+  "output": "CMakeFiles/monet.dir/include/palettes/tones.cc.o"
+},
+{
+  "directory": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include -Werror -std=gnu++17 -fPIC -o CMakeFiles/monet.dir/include/scheme/scheme.cc.o -c /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/scheme/scheme.cc",
+  "file": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/scheme/scheme.cc",
+  "output": "CMakeFiles/monet.dir/include/scheme/scheme.cc.o"
+},
+{
+  "directory": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/build",
+  "command": "/usr/bin/c++ -Dmonet_EXPORTS -I/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include -Werror -std=gnu++17 -fPIC -o CMakeFiles/monet.dir/include/utils/utils.cc.o -c /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/utils/utils.cc",
+  "file": "/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/cpp/include/utils/utils.cc",
+  "output": "CMakeFiles/monet.dir/include/utils/utils.cc.o"
+}
+]
