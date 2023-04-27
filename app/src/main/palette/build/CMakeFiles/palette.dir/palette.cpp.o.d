@@ -1,7 +1,7 @@
 CMakeFiles/palette.dir/palette.cpp.o: \
  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/palette.cpp \
  /usr/include/stdc-predef.h \
- /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/utils/jni.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/jni.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/libc-header-start.h \

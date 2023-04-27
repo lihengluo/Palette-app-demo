@@ -1,8 +1,8 @@
-#include "monet/include/utils/jni.h"
+#include "jni.h"
 #include <string>
 
-extern "C" JNIEXPORT jstring JNICALL
-Java_com_example_palette_1again_MainActivity_stringFromJNI(
+extern "C" JNIEXPORT jstring  JNICALL
+Java_com_example_composetuturial_MainActivity_stringFromJNI(
         JNIEnv* env,
         jobject /* this */) {
     std::string hello = "Hello from C++";

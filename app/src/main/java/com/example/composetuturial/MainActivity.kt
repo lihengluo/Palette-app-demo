@@ -40,8 +40,7 @@ class MainActivity : ComponentActivity() {
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
 
                     create_slider()
-                    System.loadLibrary("palette")
-                    Text(text = stringFromJNI())
+
                 }
             }
 
@@ -139,6 +138,7 @@ fun create_slider() {
             verticalArrangement = Arrangement.Center){
 
         }
+
     }
 
 
