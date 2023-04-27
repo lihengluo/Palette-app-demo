@@ -7,6 +7,7 @@ android {
     namespace 'com.example.composetuturial'
     compileSdk 33
 
+
     defaultConfig {
         applicationId "com.example.composetuturial"
         minSdk 24
@@ -44,14 +45,15 @@ android {
             excludes += '/META-INF/{AL2.0,LGPL2.1}'
         }
     }
-    buildToolsVersion '33.0.2'
-
     externalNativeBuild {
         cmake {
             version "3.22.1"
-            path = "src/main/cpp/CMakeLists.txt"
+            path = "src/main/palette/CMakeLists.txt"
         }
     }
+    buildToolsVersion '33.0.2'
+
+
 }
 
 dependencies {

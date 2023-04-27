@@ -1,0 +1,10 @@
+#include "monet/include/utils/jni.h"
+#include <string>
+
+extern "C" JNIEXPORT jstring JNICALL
+Java_com_example_palette_1again_MainActivity_stringFromJNI(
+        JNIEnv* env,
+        jobject /* this */) {
+    std::string hello = "Hello from C++";
+    return env->NewStringUTF(hello.c_str());
+}

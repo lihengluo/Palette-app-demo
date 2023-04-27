@@ -29,6 +29,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.composetuturial.ui.theme.ComposeTuturialTheme
 
+
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -36,13 +38,23 @@ class MainActivity : ComponentActivity() {
             ComposeTuturialTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
+
                     create_slider()
+                    System.loadLibrary("palette")
+                    Text(text = stringFromJNI())
                 }
             }
+
+        }
+    }
+
+    external fun stringFromJNI(): String
+    companion object {
+        init {
+            System.loadLibrary("palette")
         }
     }
 }
-
 
 
 @Composable
@@ -116,10 +128,14 @@ fun create_slider() {
             }
         }
         Spacer(modifier = Modifier.padding(10.dp))
-        Column (modifier = Modifier.padding(20.dp)
+        Column (modifier = Modifier
+            .padding(20.dp)
             .size(150.dp)
             .border(1.dp, MaterialTheme.colorScheme.onSurface)
-            .background(color = Color(red = hue/360, green = chroma/100, blue = tone/100), shape = MaterialTheme.shapes.medium),
+            .background(
+                color = Color(red = hue / 360, green = chroma / 100, blue = tone / 100),
+                shape = MaterialTheme.shapes.medium
+            ),
             verticalArrangement = Arrangement.Center){
 
         }

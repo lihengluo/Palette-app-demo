@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Werror -shared -Wl,-soname,lib..so -o /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/lib/lib..so CMakeFiles/..dir/palette.cpp.o  -Wl,-rpath,/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/lib /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/lib/libmonet.so 

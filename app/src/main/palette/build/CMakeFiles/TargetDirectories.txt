@@ -1,0 +1,6 @@
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/build/CMakeFiles/palette.dir
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/build/CMakeFiles/edit_cache.dir
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/build/CMakeFiles/rebuild_cache.dir
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/build/monet/CMakeFiles/monet.dir
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/build/monet/CMakeFiles/edit_cache.dir
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/build/monet/CMakeFiles/rebuild_cache.dir
