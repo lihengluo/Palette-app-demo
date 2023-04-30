@@ -3,7 +3,7 @@
 
 CMakeFiles/palette.dir/palette.cpp.o: /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/palette.cpp \
   /usr/include/stdc-predef.h \
-  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/utils/jni.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/jni.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
   /usr/include/stdint.h \
@@ -137,8 +137,50 @@ CMakeFiles/palette.dir/palette.cpp.o: /home/Eighthalf/AndroidStudioProjects/Comp
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
   /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc
+  /usr/include/c++/12.2.1/bits/basic_string.tcc \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/bitmap_header.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/blend/blend.cc \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/blend/blend.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/utils/utils.h \
+  /usr/include/c++/12.2.1/algorithm \
+  /usr/include/c++/12.2.1/bits/stl_algo.h \
+  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
+  /usr/include/c++/12.2.1/bits/stl_heap.h \
+  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
+  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
+  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/cam.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/viewing_conditions.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/utils/utils.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/viewing_conditions.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct.cc \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct_solver.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/cam.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/utils/utils.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct.h \
+  /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/utils/utils.h
 
+
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct.cc:
+
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct.h:
+
+/usr/include/c++/12.2.1/pstl/execution_defs.h:
+
+/usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h:
+
+/usr/include/c++/12.2.1/bits/uniform_int_dist.h:
+
+/usr/include/c++/12.2.1/bits/stl_tempbuf.h:
+
+/usr/include/c++/12.2.1/bits/stl_algo.h:
+
+/usr/include/c++/12.2.1/algorithm:
+
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/blend/blend.cc:
 
 /usr/include/c++/12.2.1/bits/charconv.h:
 
@@ -170,7 +212,11 @@ CMakeFiles/palette.dir/palette.cpp.o: /home/Eighthalf/AndroidStudioProjects/Comp
 
 /usr/include/c++/12.2.1/bits/move.h:
 
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/blend/blend.h:
+
 /usr/include/bits/floatn.h:
+
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/utils/utils.h:
 
 /usr/include/c++/12.2.1/bits/exception.h:
 
@@ -190,6 +236,10 @@ CMakeFiles/palette.dir/palette.cpp.o: /home/Eighthalf/AndroidStudioProjects/Comp
 
 /usr/include/c++/12.2.1/type_traits:
 
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/viewing_conditions.h:
+
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/bitmap_header.h:
+
 /usr/include/gnu/stubs-64.h:
 
 /usr/include/c++/12.2.1/cctype:
@@ -208,19 +258,17 @@ CMakeFiles/palette.dir/palette.cpp.o: /home/Eighthalf/AndroidStudioProjects/Comp
 
 /usr/include/bits/floatn-common.h:
 
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/cam.h:
+
 /usr/include/features-time64.h:
-
-/usr/include/bits/types/wint_t.h:
-
-/usr/include/c++/12.2.1/bits/std_abs.h:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h:
 
 /usr/include/bits/libc-header-start.h:
 
 /usr/include/c++/12.2.1/bits/cxxabi_forced.h:
 
 /usr/include/bits/stdint-uintn.h:
+
+/usr/include/c++/12.2.1/bits/stl_heap.h:
 
 /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h:
 
@@ -234,17 +282,21 @@ CMakeFiles/palette.dir/palette.cpp.o: /home/Eighthalf/AndroidStudioProjects/Comp
 
 /usr/include/c++/12.2.1/bits/char_traits.h:
 
-/usr/include/bits/waitstatus.h:
-
-/usr/include/bits/timesize.h:
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct_solver.h:
 
 /usr/include/bits/endian.h:
 
-/usr/include/c++/12.2.1/bits/functexcept.h:
+/usr/include/bits/types/wint_t.h:
 
-/usr/include/c++/12.2.1/bits/hash_bytes.h:
+/usr/include/c++/12.2.1/bits/std_abs.h:
 
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h:
+/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h:
+
+/usr/include/bits/timesize.h:
+
+/usr/include/bits/waitstatus.h:
+
+/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/jni.h:
 
 /usr/include/sys/cdefs.h:
 
@@ -257,8 +309,6 @@ CMakeFiles/palette.dir/palette.cpp.o: /home/Eighthalf/AndroidStudioProjects/Comp
 /usr/include/bits/pthreadtypes-arch.h:
 
 /usr/include/gnu/stubs.h:
-
-/home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/utils/jni.h:
 
 /usr/include/c++/12.2.1/bits/stl_function.h:
 
@@ -304,6 +354,12 @@ CMakeFiles/palette.dir/palette.cpp.o: /home/Eighthalf/AndroidStudioProjects/Comp
 
 /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h:
 
+/usr/include/c++/12.2.1/bits/functexcept.h:
+
+/usr/include/c++/12.2.1/bits/hash_bytes.h:
+
+/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h:
+
 /usr/include/c++/12.2.1/pstl/pstl_config.h:
 
 /usr/include/bits/thread-shared-types.h:
@@ -341,6 +397,8 @@ CMakeFiles/palette.dir/palette.cpp.o: /home/Eighthalf/AndroidStudioProjects/Comp
 /usr/include/asm/errno.h:
 
 /usr/include/c++/12.2.1/bits/refwrap.h:
+
+/usr/include/c++/12.2.1/bits/algorithmfwd.h:
 
 /usr/include/bits/types/time_t.h:
 

@@ -21,6 +21,3 @@ target_link_libraries(${PROJECT_NAME} monet )
 #输出信息
 
 
-#install
-
-#test

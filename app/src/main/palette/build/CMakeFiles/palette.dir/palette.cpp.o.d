@@ -97,4 +97,27 @@ CMakeFiles/palette.dir/palette.cpp.o: \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/bits/types/error_t.h \
  /usr/include/c++/12.2.1/bits/charconv.h \
- /usr/include/c++/12.2.1/bits/basic_string.tcc
+ /usr/include/c++/12.2.1/bits/basic_string.tcc \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include//blend/blend.cc \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include//blend/blend.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include//blend/../utils/utils.h \
+ /usr/include/c++/12.2.1/algorithm \
+ /usr/include/c++/12.2.1/bits/stl_algo.h \
+ /usr/include/c++/12.2.1/bits/algorithmfwd.h \
+ /usr/include/c++/12.2.1/bits/stl_heap.h \
+ /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
+ /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
+ /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
+ /usr/include/c++/12.2.1/pstl/execution_defs.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include//blend/../cam/cam.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include//blend/../cam/viewing_conditions.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include//blend/../cam/../utils/utils.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include//blend/../cam/hct.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include//blend/../cam/viewing_conditions.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct.cc \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct_solver.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/cam.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/../utils/utils.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/cam/hct.h \
+ /home/Eighthalf/AndroidStudioProjects/ComposeTuturial/app/src/main/palette/monet/include/utils/utils.h
